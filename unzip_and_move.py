@@ -66,5 +66,5 @@ def move_png_files(zip_folder_name):
             print(f"Error: Failed to extract {zip_folder_name}")
 
 # Example usage:
-zip_folder_name = "remove-pages.zip"
+zip_folder_name = "split-pdf.zip"
 move_png_files(zip_folder_name)
